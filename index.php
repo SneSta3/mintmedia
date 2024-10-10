@@ -1,4 +1,4 @@
-<?php include 'header.php';?>
+<?php include 'template_parts/header.php';?>
 
 <!-- hero -->
 <header class="mainHeader">
@@ -11,6 +11,6 @@
   <p class="lead">Kada želite promociju svog brenda i usluge onda je najsvrsishodnije rešenje da imate sve na jednom mestu: facebook i google, reklame, kopirajt, SEO...</p>
 </section>
 
-<?php include 'usluge-part.php'; ?>
+<?php include 'template_parts/usluge-part.php'; ?>
 
-<?php include 'footer.php'; ?>
+<?php include 'template_parts/footer.php'; ?>
