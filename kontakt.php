@@ -18,10 +18,9 @@
     </div>
     <div class="mb-3">
         <label class="text-white mb-2">E-mail adresa</label>
-        <textarea class="form-control"></textarea>
+        <textarea class="form-control rounded-0"></textarea>
     </div>
     <button class="btn btn-dark mt-4">Posaljite poruku</button>
-        
   </form>
 
     <?php include 'footer.php';?>
