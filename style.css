@@ -1,8 +1,24 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=MuseoModerno:ital,wght@0,100..900;1,100..900&display=swap");
 body {
   font-family: "Montserrat", sans-serif;
   color: #555;
   font-size: 16px;
+}
+
+h1, h2, h3, h4 {
+  font-family: "MuseoModerno", sans-serif;
+}
+
+.btn {
+  border-radius: 0;
+  border: none;
+}
+
+.btn-primary {
+  background: #3db89c;
+}
+.btn-primary:hover {
+  background: #555;
 }
 
 nav.bg-body-tertiary {
@@ -50,4 +66,57 @@ footer h3 {
 }
 .socials a:hover {
   color: rgba(255, 255, 255, 0.7);
+}
+
+.baner {
+  background: #3db89c;
+  margin-top: -100px;
+}
+.baner h1 {
+  font-weight: 300;
+}
+
+.usluge h2::after {
+  display: block;
+  content: "";
+  background: #3db89c;
+  height: 2px;
+  width: 100px;
+  text-align: center;
+  margin: 30px auto 60px auto;
+}
+
+.blogHeader img {
+  height: 60vh;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.blogHeader h1 {
+  background: rgba(61, 184, 156, 0.7);
+}
+
+main {
+  padding-top: 100px;
+}
+main .text {
+  background: #3db89c;
+  width: 80%;
+  margin: 0 auto;
+  top: -100px;
+}
+main .widget {
+  border: 1px solid #3db89c;
+  padding: 30px;
+  margin-bottom: 30px;
+}
+main .widget a {
+  color: #3db89c;
+}
+main .widget a:hover {
+  color: #555;
+}
+
+form {
+  background: #3db89c;
+  top: -100px;
 }/*# sourceMappingURL=style.css.map */

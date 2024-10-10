@@ -53,3 +53,68 @@ footer {
         }
     }
 }
+
+//baner
+.baner {
+    background: $secondary;
+    margin-top: -100px;
+    h1{
+        font-weight: 300;
+    }
+}
+
+// usluge
+.usluge{
+    h2{
+        &::after {
+            display: block;
+            content: '';
+            background: $secondary;
+            height: 2px;
+            width: 100px;
+            text-align: center;
+            margin: 30px auto 60px auto ;
+        }
+    }
+}
+
+// blog header
+.blogHeader {
+    img {
+        height: 60vh;
+        object-fit: cover;
+    }
+    h1{
+        background: rgba($secondary, .7);
+    }
+}
+
+// blog
+main {
+    padding-top: 100px;
+    .text {
+        background: $secondary;
+        width: 80%;
+        margin: 0 auto;
+        top: -100px;
+    }
+    .widget {
+        border: 1px solid $secondary;
+        padding: 30px;
+        margin-bottom: 30px;
+        a {
+            color: $secondary;
+            &:hover {
+                color: $text;
+            }
+        }
+    }
+}
+
+//forma
+form {
+    background: $secondary;
+    top: -100px;
+}
+
+
