@@ -1,0 +1,21 @@
+++++++++++++++++++
+ID: 3
+Slika: img/mint drustvene mreze.jpg
+Naslov: Drustvene mreze
+Datum: 18.09.2024.
+Admin: Admin
+Tekst:Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil blanditiis, aperiam porro mollitia ipsum minima sequi, aspernatur earum ad officiis facere illum dolorum maxime error laboriosam, optio pariatur quod dignissimos beatae. Unde quisquam rerum aperiam maiores vitae eveniet! Vero officiis impedit consequatur facilis corporis aliquam! Voluptate ab beatae ea minus?
+++++++++++++++++++
+ID: 2
+Slika: img/mint_seo.jpg
+Naslov: Search engine optimizacija
+Datum: 18.09.2024.
+Admin: Admin
+Tekst:Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil blanditiis, aperiam porro mollitia ipsum minima sequi, aspernatur earum ad officiis facere illum dolorum maxime error laboriosam, optio pariatur quod dignissimos beatae. Unde quisquam rerum aperiam maiores vitae eveniet! Vero officiis impedit consequatur facilis corporis aliquam! Voluptate ab beatae ea minus?
+++++++++++++++++++
+ID: 1
+Slika: img/mint-google-oglasi.jpg
+Naslov: Google oglasi
+Datum: 18.09.2024.
+Admin: Admin
+Tekst:Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil blanditiis, aperiam porro mollitia ipsum minima sequi, aspernatur earum ad officiis facere illum dolorum maxime error laboriosam, optio pariatur quod dignissimos beatae. Unde quisquam rerum aperiam maiores vitae eveniet! Vero officiis impedit consequatur facilis corporis aliquam! Voluptate ab beatae ea minus?
